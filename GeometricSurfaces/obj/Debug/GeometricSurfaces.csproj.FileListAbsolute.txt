@@ -1,0 +1,7 @@
+C:\Users\maneg\source\repos\GeometricSurfaces\bin\Debug\GeometricSurfaces.exe.config
+C:\Users\maneg\source\repos\GeometricSurfaces\bin\Debug\GeometricSurfaces.exe
+C:\Users\maneg\source\repos\GeometricSurfaces\bin\Debug\GeometricSurfaces.pdb
+C:\Users\maneg\source\repos\GeometricSurfaces\obj\Debug\GeometricSurfaces.csproj.AssemblyReference.cache
+C:\Users\maneg\source\repos\GeometricSurfaces\obj\Debug\GeometricSurfaces.csproj.CoreCompileInputs.cache
+C:\Users\maneg\source\repos\GeometricSurfaces\obj\Debug\GeometricSurfaces.exe
+C:\Users\maneg\source\repos\GeometricSurfaces\obj\Debug\GeometricSurfaces.pdb
